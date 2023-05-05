@@ -1,4 +1,5 @@
 # Roll the Dice
+## 1. Project of Maximilian's flutter course.
 
 <div style="display:flex;justify-content:space-between;">
   <img src="assets/images/ss-1.jpg" alt="Screenshot 1" width="150">
